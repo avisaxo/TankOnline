@@ -387,6 +387,7 @@
 "Assets/Scripts/ConnectToServer.cs"
 "Assets/Scripts/CreateAndJoinsRooms.cs"
 "Assets/Scripts/DataStatus.cs"
+"Assets/Scripts/LoadingAnimation.cs"
 "Assets/Scripts/Managers/GameManager.cs"
 "Assets/Scripts/Managers/TankManager.cs"
 "Assets/Scripts/Shell/ShellExplosion.cs"
